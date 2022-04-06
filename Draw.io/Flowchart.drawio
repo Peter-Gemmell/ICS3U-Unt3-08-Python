@@ -15,7 +15,7 @@
                 <mxCell id="19" style="edgeStyle=none;rounded=0;html=1;" edge="1" parent="1" source="20" target="32">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="20" value="Get year_number" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                <mxCell id="20" value="Get year_Number" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
                     <mxGeometry x="100" y="120" width="140" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="21" style="edgeStyle=none;html=1;" edge="1" parent="1" source="22" target="23">
